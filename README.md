@@ -1,3 +1,3 @@
 Resume of Md. Robayed Molla
 
-https://robayed110.github.io/RobaCV/
+https://robayed110.github.io/RobayedCV/
